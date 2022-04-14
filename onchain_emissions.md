@@ -68,7 +68,7 @@ If `smart_contract` is `true`, the `address` is a smart-contract, meaning code h
 
 `origin` can have the following:
 
-1. `MultiSigWalletWithDailyLimit`, `MultiSigWalletWithTimeLock`, `GnosisSafeProxy`, `multi_sig`
+1. `MultiSigWalletWithDailyLimit`, `MultiSigWalletWithTimeLock`, `GnosisSafeProxy`, `multi_sig`, `DSProxy`, `Argent`
 
 These are multisignature wallets and they contribute to Maker's footprint.
 
